@@ -1,5 +1,5 @@
 let bread = 10;
-let breadPrice = 1000;
+let breadPrice = 800;
 
 const totalBreadPurchased = (bread, breadPrice) => bread * breadPrice;
 const totalContribution = totalBreadPurchased(bread, breadPrice);
